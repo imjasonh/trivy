@@ -24,7 +24,7 @@ require (
 	github.com/go-redis/redis/v8 v8.4.0
 	github.com/goccy/go-yaml v1.8.2 // indirect
 	github.com/golang/protobuf v1.4.3
-	github.com/google/go-containerregistry v0.1.2
+	github.com/google/go-containerregistry v0.5.1
 	github.com/google/go-github/v33 v33.0.0
 	github.com/google/wire v0.4.0
 	github.com/gopherjs/gopherjs v0.0.0-20200217142428-fce0ec30dd00 // indirect
